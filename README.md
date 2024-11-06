@@ -8,6 +8,22 @@ In C++, OOP helps you break down a complex program into smaller, manageable piec
 3. **Inheritance**
 4. **Polymorphism**
 
+# Topics Covered in programming!
+1. **Class & Object**
+2. **Access Specifiers**
+3. **Encapsulation**
+4. **Constructor**
+5. **this Pointer**
+6. **Copy Constructor**
+7. **Shallow & Deep Copy**
+8. **Destructor**
+9. **Inheritance**
+10. **Polymorphism**
+11. **Function Overriding**
+12. **Virtual Function**
+13. **Abstraction**
+14. **Abstract Class**
+
 # Let’s explain each one with simple examples!
 
 ---
